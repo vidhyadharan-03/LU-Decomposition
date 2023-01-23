@@ -43,7 +43,7 @@ print(x)
 ## Output:
 ![expected l and u](/l%20and%20u.png)
 
-![got l and u](/got%20l%20and%20u.png)
+![get l and u](/got%20l%20and%20u.png)
 
 ![Lu Decompostiion](/lu.png)
 
